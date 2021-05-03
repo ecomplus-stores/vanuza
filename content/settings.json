@@ -1,24 +1,24 @@
 {
-  "store_id": 1466,
-  "name": "vanuza",
   "domain": "vanuza.netlify.app",
-  "short_name": "vanuza",
-  "description": "vanuza",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/vanuza",
+  "logo": "/img/uploads/d-dora-sem-o-fundo.png",
+  "name": "vanuza",
+  "short_name": "vanuza",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/vanuza"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1466,
+  "description": "vanuza",
+  "large_icon": "/img/large-icon.png"
 }
