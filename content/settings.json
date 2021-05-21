@@ -4,13 +4,13 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "niche-flowers"
+    "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/vanuza",
   "logo": "/img/uploads/d-dora-sem-o-fundo.png",
-  "name": "vanuza",
-  "short_name": "vanuza",
+  "name": "D.DORA",
+  "short_name": "D.DORA",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,6 +19,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/icon.png",
   "store_id": 1466,
-  "description": "vanuza",
+  "description": "Modernas e elegantes, as bolsas D.Dora trazem praticidade para o dia a dia da mulher.",
   "large_icon": "/img/large-icon.png"
 }
