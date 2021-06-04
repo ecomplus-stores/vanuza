@@ -7,12 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-3.png",
+          "img": "/img/uploads/banner-03.png",
           "link": "",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-3.png"
+          "mobile_img": "/img/uploads/banner-03.png"
         }
       ]
     },
@@ -24,7 +24,7 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/entrega-em-todo-o-brasil.-gif.gif"
+          "img": "/img/uploads/entrega-em-todo-o-brasil-01-gif.gif"
         },
         {
           "img": "/img/uploads/varias-bolsas.gif"
