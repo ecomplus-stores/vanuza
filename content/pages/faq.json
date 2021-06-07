@@ -2,5 +2,5 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<div class=faq-questions>\n\n<p>\n\n<div class=\"faq-questions__question\">\n\n<h3>Posso tirar minhas dúvidas?</h3>\n\n<p>\n\nSim! Para isso você precisa entrar em contato através de um dos nossos meios de comunicação, entre em contato no nosso: <a href=\"/pages/contato\">whatsapp!(Clique aqui).</a>\n\n</p>\n\n</div>\n\n<h3>Se não tiver ninguém no local para receber o meu pedido?</h3>\n\n<p>\n\nÉ indispensável que no endereço solicitado haja alguém para receber a encomenda e assinar o comprovante de entrega.Em locais comerciais ou condomínios com portarias/recepções, a entrega poderá realizada para terceiros (porteiros, recepcionistas, secretárias e outros funcionários devidamente identificados).\n\n<br>Importante!<br>\n\nNa ausência do destinatário ou terceiros aptos a receber, a empresa de transporte está autorizada a localizar o vizinho mais próximo, que poderá ficar responsável pela entrega do produto. Caso não haja nenhum responsável, a encomenda retornará para nossa base e ocorrerá uma nova cobrança de frete para o reenvio, que será agendado de acordo com a solicitação do cliente e disponibilidade de atendimento para a localidade.\n\n</p>\n\n</div>"
 }
