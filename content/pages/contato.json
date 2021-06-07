@@ -2,5 +2,11 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "Whatsapp: (31) 9 8442-0025\n\n\nTelefone: (31) 9 8442-0025\n\n\nEmail: ddorabolsa@gmail.com"
+  "body": "Whatsapp: (31) 9 8442-0025\n\n\nTelefone: (31) 9 8442-0025\n\n\nEmail: ddorabolsa@gmail.com",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/contato.png"
+    }
+  ]
 }
