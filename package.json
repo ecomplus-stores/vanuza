@@ -42,6 +42,6 @@
     "firebase-tools": "^9.16.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.27.4"
+    "browser-sync": "^2.27.5"
   }
 }
